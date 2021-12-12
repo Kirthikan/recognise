@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-color: pink;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border:2px dashed black ;
+}
+
